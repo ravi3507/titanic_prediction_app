@@ -1,7 +1,6 @@
 import numpy as np
 import pandas as pd
-import seaborn as sns 
-import matplotlib.pyplot as plt
+
 import streamlit as st
 st.set_page_config(page_title='Titanic Survival Prediction App',
     layout='wide')
